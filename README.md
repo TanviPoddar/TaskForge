@@ -1,2 +1,2 @@
 # TaskForge
-Project Management App
+TaskForge is a modern project management application built with Kotlin and Firebase, designed for efficient task tracking and team collaboration. Featuring real-time updates via Firebase Cloud Messaging, TaskForge enhances team productivity with seamless communication and task management. Utilizing Jetpack Compose for a responsive UI and Firebase Authentication for secure user access, TaskForge ensures a streamlined user experience.
